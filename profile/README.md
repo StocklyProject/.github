@@ -11,11 +11,10 @@
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
 - [Swagger](#-Swagger)
-- [Monitoring](#-Monitoring)
 - [Directory Structure](#-Directory-Structure)
 - [Environment](#-Environment)
 - [How to Start](#-How-to-Start)
-
+- [Monitoring](#-Monitoring)
 
 # 👩‍💻 Instruction
 
@@ -35,3 +34,5 @@
 # <img src="https://github.com/user-attachments/assets/6f430ebb-b28d-4898-9295-bb7f0b0aa785" alt=".ENV icon" width="24"/> Environment
 
 # 🚀 How to Start
+
+# 💡 Monitoring
