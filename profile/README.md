@@ -7,10 +7,12 @@
 
 # 📚Table of Contents
 - [Instruction](#-Instruction)
-- [Demo](#-Demo)
+- [WEB Demo](#-APP-Demo)
+- [APP Demo](#-APP-Demo)
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
 - [Swagger](#-Swagger)
+- [Kafka Workflows](#-Kafka-Workflows)
 - [Directory Structure](#-Directory-Structure)
 - [Environment](#-Environment)
 - [How to Start](#-How-to-Start)
@@ -35,7 +37,9 @@ https://drive.google.com/file/d/1RCKO13ue1S7Rjw33bm4f2IzVcdGs1_K7/view
 ## 연동 정의서 
 https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLKk7c/edit?gid=785057080#gid=785057080
 
-# 🌈 DEMO
+# 🌈 WEB DEMO
+
+# 🌈 APP DEMO
 
 # ⚙ System Architecture
 
@@ -46,6 +50,15 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 <img src="https://github.com/user-attachments/assets/cf0d1092-ac1e-4cbd-b8aa-686967497d11">
 
 # <img src="https://github.com/user-attachments/assets/b043ab14-fb35-4e59-b26c-6f6c31a613ad" alt="Swagger icon" width="28"/> Swagger
+## 주식 차트 알림 Producer
+<img width="1462" alt="image" src="https://github.com/user-attachments/assets/275bd32a-b38f-4201-ba67-429f6f5cb640">
+
+## 주식 차트, 알림 Consumer
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/2778e07e-d3ec-40ce-b407-51366d1546c8">
+
+## 모의투자 Consumer Server
+<img width="1491" alt="image" src="https://github.com/user-attachments/assets/671b68ba-862a-453d-b560-3d256db3acfa">
+
 
 # ⚙ Kafka Workflows
 ## 주식 차트 기능
