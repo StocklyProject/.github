@@ -44,6 +44,18 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 # ⚙ System Architecture
 
 # 🛠 Tech Stack
+<br>
+<div align =center>
+
+분야| 사용 기술|
+:--------:|:------------------------------:|
+**Fronted** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+**APP** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+**Backend** | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=white"> 
+**DevOps** | <img src="https://github.com/user-attachments/assets/e00ee5a1-a54b-4202-810c-61d45560eafa"/> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> 
+**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> 
+**etc** |  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> 
+</div>
 
 # 💾 ERD
 
