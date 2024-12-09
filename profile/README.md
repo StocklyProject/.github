@@ -6,7 +6,7 @@
 
 
 # 📚Table of Contents
-- [Instruction](#-Instruction)
+- [Introduction](#-Introduction)
 - [WEB Demo](#-APP-Demo)
 - [APP Demo](#-APP-Demo)
 - [System Architechture](#-System-Architechture)
@@ -18,7 +18,7 @@
 - [How to Start](#-How-to-Start)
 - [Monitoring](#-Monitoring)
 
-# 👩‍💻 Instruction
+# 👩‍💻 Introduction
 ## EPH(Elevator Pitch Framework)
 - STOCKLY는 주식 투자에 관심이 있지만 시작을 어려워 하는 개인들에게 실전에 가까운 투자 경험과 위험 없는 투자 학습 환경을 제공한다. 더불어 우리는 사용자의 자산을 시각화하여 편리한 자산관리를 돕는다.
 
