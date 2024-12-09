@@ -70,7 +70,69 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 # 📂 Directory Structure
 
 # <img src="https://github.com/user-attachments/assets/6f430ebb-b28d-4898-9295-bb7f0b0aa785" alt=".ENV icon" width="24"/> Environment
+* backend/.env
+```
+MYSQL_ROOT_PASSWORD=
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_HOST=
+
+REDIS_URL=
+REDIS_HOST=
+REDIS_PORT=
+
+# 한국 투자 증권 앱 키 
+APP_KEY=
+APP_SECRET=
+SSE_KEY=
+SSE_SECRET=
+HOGA_KEY=
+HOGA_SECRET=
+
+```
 
 # 🚀 How to Start
+* backend
+```
+# Docker Desktop 실행 -> Settings -> Kubernetes -> Enable Kubernetes
+
+# Kubernetes, helm 설치 
+brew install kubectl
+brew install helm
+
+# 트래픽 활성화
+helm repo add traefik https://helm.traefik.io/traefik
+helm repo update
+helm install traefik traefik/traefik --namespace kube-system --set "dashboard.enabled=true" --set "service.type=LoadBalancer"
+
+# 로컬에서 트래픽 사용을 위한 설정
+sudo nano /etc/hosts
+
+127.0.0.1   localhost.stock-service
+127.0.0.1   localhost.stock-server
+127.0.0.1   localhost.order-service
+127.0.0.1   traefik.internal
+
+127.0.0.1   localhost.traefik
+127.0.0.1   localhost.kafka
+127.0.0.1   localhost.zookeeper
+127.0.0.1   localhost.argocd
+
+# 위의 내용을 복사, 붙여넣기 후 저장 
+
+# 네임스페이스 생성
+kubectl create namespace stockly
+kubectl create namespace argocd
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+
+# argoCD 실행
+kubectl apply -f argoCD/app.yaml
+
+# argoCD 접속
+kubectl port-forward svc/argocd-server -n argocd 8080:443
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d; echo # 비밀번호 화인 명령어(아이디는 Admin)
+
+```
 
 # 💡 Monitoring
