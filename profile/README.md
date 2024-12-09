@@ -93,7 +93,7 @@ HOGA_SECRET=
 ```
 
 # 🚀 How to Start
-* backend
+## backend
 ```
 # Docker Desktop 실행 -> Settings -> Kubernetes -> Enable Kubernetes
 
