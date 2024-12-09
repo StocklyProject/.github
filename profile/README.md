@@ -49,12 +49,14 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Fronted** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70"/> <img src="https://github.com/user-attachments/assets/3f4dc890-11fa-4761-97ca-63a588fb7ee8" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Fronted** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/3f4dc890-11fa-4761-97ca-63a588fb7ee8" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **APP** | 
 **Backend** | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/2e4e3521-df04-4934-a236-dc52df8b4f28" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/b4cb23f8-69d7-461e-9c95-89713ea2a2a5" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/f14de573-f552-4d1d-b6f2-ed63faa49693" width="70" height="70"/> 
 **DevOps** | <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" height="70" style="vertical-align: middle;"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/user-attachments/assets/3feef2da-8845-4c62-ae5b-d6508a79be21" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/d17e8051-0244-473f-8e36-130808d56c27" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/73b7273b-086d-4916-a0dc-db5ee8055b8a" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-**Monitoring** | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"/>
-**etc** | <img src="https://github.com/user-attachments/assets/abe3f76e-9e1e-4f16-84ab-02c5dec02503" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+**Monitoring** | 
+**etc** | <img src="https://github.com/user-attachments/assets/abe3f76e-9e1e-4f16-84ab-02c5dec02503" height="70"/> <img src="https://github.com/user-attachments/assets/0c8e87e3-8453-4b5b-9ca0-dccf94e67cc0" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/d4c9686b-38fb-47d3-be78-09e5b6b7c825" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/29a7e4e4-f8c7-4dd1-ab32-1fcb55a41292" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 </div>
 
