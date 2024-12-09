@@ -48,6 +48,11 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 # <img src="https://github.com/user-attachments/assets/b043ab14-fb35-4e59-b26c-6f6c31a613ad" alt="Swagger icon" width="28"/> Swagger
 
 # ⚙ Kafka Workflows
+## 주식 차트 기능
+<img src="https://github.com/user-attachments/assets/d55d424b-396b-480d-8257-b2de25c1164f">
+
+## 알림 기능
+<img src="https://github.com/user-attachments/assets/86c698b2-af5f-4c5a-9437-b5b6e83e7627">
 
 # 📂 Directory Structure
 
