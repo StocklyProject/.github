@@ -45,17 +45,18 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 # 🛠 Tech Stack
 <br>
-<div align =center>
+<div align="center">
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Fronted** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-**APP** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-**Backend** | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=white"> 
-**DevOps** | <img src="https://github.com/user-attachments/assets/e00ee5a1-a54b-4202-810c-61d45560eafa"/> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> 
-**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> 
-**etc** |  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> 
+**Fronted** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70" style="margin-right: 10px; vertical-align: middle;"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" style="vertical-align: middle;"/>
+**APP** | 
+**Backend** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70" style="margin-right: 10px; vertical-align: middle;"/> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" style="vertical-align: middle;"/> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70" style="margin-right: 10px; vertical-align: middle;"/>
+**DevOps** | <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" height="70" style="vertical-align: middle;"/>
+**Monitoring** | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"/>
+**etc** | <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> 
 </div>
+
 
 # 💾 ERD
 
