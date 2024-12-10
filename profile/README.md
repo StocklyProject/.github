@@ -131,6 +131,52 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 # 📂 Directory Structure
 
+<details>
+    <summary>Web</summary>
+<pre>
+<code>
+</code>
+</pre>
+</details>
+
+
+<details>
+    <summary>App</summary>
+<pre>
+<code>
+</code>
+</pre>
+</details>
+
+
+<details>
+    <summary>Stock-Producer-Server</summary>
+<pre>
+<code>
+</code>
+</pre>
+</details>
+
+
+<details>
+    <summary>Stock-Consumer-Server</summary>
+<pre>
+<code>
+</code>
+</pre>
+</details>
+
+
+<details>
+    <summary>Order-Consumer-Server</summary>
+<pre>
+<code>
+</code>
+</pre>
+</details>
+
+
+
 # <img src="https://github.com/user-attachments/assets/6f430ebb-b28d-4898-9295-bb7f0b0aa785" alt=".ENV icon" width="24"/> Environment
 * backend/.env
 ```
