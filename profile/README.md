@@ -153,6 +153,60 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     <summary>Stock-Producer-Server</summary>
 <pre>
 <code>
+📦Stock-Producer-Server
+ ┣ 📂.github
+ ┃ ┣ 📂ISSUE_TEMPLATE
+ ┃ ┃ ┣ 📜♻️-refactor.md
+ ┃ ┃ ┣ 📜✨-feature.md
+ ┃ ┃ ┣ 📜🐛-bug.md
+ ┃ ┃ ┗ 📜🛠️-setting.md
+ ┃ ┣ 📂workflows
+ ┃ ┃ ┗ 📜ci.yml
+ ┃ ┗ 📜pull_request_template.md
+ ┣ 📂src
+ ┃ ┣ 📂alert
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜crud.py
+ ┃ ┃ ┣ 📜routes.py
+ ┃ ┃ ┗ 📜schemas.py
+ ┃ ┣ 📂common
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜admin_kafka_client.py
+ ┃ ┃ ┣ 📜kis_configs.py
+ ┃ ┃ ┗ 📜producer.py
+ ┃ ┣ 📂order
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜order_book_ws.py
+ ┃ ┃ ┣ 📜routes.py
+ ┃ ┃ ┣ 📜schemas.py
+ ┃ ┃ ┗ 📜service.py
+ ┃ ┣ 📂stock
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜crud.py
+ ┃ ┃ ┣ 📜faust_models.py
+ ┃ ┃ ┣ 📜price_websocket.py
+ ┃ ┃ ┣ 📜routes.py
+ ┃ ┃ ┣ 📜schemas.py
+ ┃ ┃ ┗ 📜websocket.py
+ ┃ ┣ 📂user
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜crud.py
+ ┃ ┃ ┣ 📜routes.py
+ ┃ ┃ ┗ 📜schemas.py
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜configs.py
+ ┃ ┣ 📜database.py
+ ┃ ┣ 📜logger.py
+ ┃ ┣ 📜main.py
+ ┃ ┗ 📜requirements.txt
+ ┣ 📜.env
+ ┣ 📜.gitignore
+ ┣ 📜Dockerfile
+ ┣ 📜README.md
+ ┣ 📜build.sh
+ ┣ 📜docker-compose.yml
+ ┣ 📜init.sql
+ ┗ 📜my.cnf
 </code>
 </pre>
 </details>
@@ -162,6 +216,45 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     <summary>Stock-Consumer-Server</summary>
 <pre>
 <code>
+📦Stock-Consumer-Server
+ ┣ 📂.github
+ ┃ ┣ 📂ISSUE_TEMPLATE
+ ┃ ┃ ┣ 📜♻️-refactor.md
+ ┃ ┃ ┣ 📜✨-feature.md
+ ┃ ┃ ┣ 📜🐛-bug.md
+ ┃ ┃ ┗ 📜🛠️-setting.md
+ ┃ ┣ 📂workflows
+ ┃ ┃ ┗ 📜ci.yml
+ ┃ ┗ 📜pull_request_template.md
+ ┣ 📂src
+ ┃ ┣ 📂alert
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜crud.py
+ ┃ ┃ ┣ 📜routes.py
+ ┃ ┃ ┗ 📜service.py
+ ┃ ┣ 📂faust_app
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜app.py
+ ┃ ┃ ┣ 📜models.py
+ ┃ ┃ ┗ 📜sse.py
+ ┃ ┣ 📂stock
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜crud.py
+ ┃ ┃ ┣ 📜routes.py
+ ┃ ┃ ┗ 📜service.py
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜consumer.py
+ ┃ ┣ 📜database.py
+ ┃ ┣ 📜logger.py
+ ┃ ┣ 📜main.py
+ ┃ ┣ 📜producer.py
+ ┃ ┗ 📜requirements.txt
+ ┣ 📜.env
+ ┣ 📜.gitignore
+ ┣ 📜Dockerfile
+ ┣ 📜README.md
+ ┣ 📜build.sh
+ ┗ 📜docker-compose.yml
 </code>
 </pre>
 </details>
@@ -171,6 +264,31 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     <summary>Order-Consumer-Server</summary>
 <pre>
 <code>
+📦Order-Consumer-Server
+ ┣ 📂.github
+ ┃ ┣ 📂ISSUE_TEMPLATE
+ ┃ ┃ ┣ 📜♻️-refactor.md
+ ┃ ┃ ┣ 📜✨-feature.md
+ ┃ ┃ ┣ 📜🐛-bug.md
+ ┃ ┃ ┗ 📜🛠️-setting.md
+ ┃ ┣ 📂workflows
+ ┃ ┃ ┗ 📜ci.yml
+ ┃ ┗ 📜pull_request_template.md
+ ┣ 📂src
+ ┃ ┣ 📜consumer.py
+ ┃ ┣ 📜database.py
+ ┃ ┣ 📜logger.py
+ ┃ ┣ 📜main.py
+ ┃ ┣ 📜requirements.txt
+ ┃ ┣ 📜routes.py
+ ┃ ┣ 📜schemas.py
+ ┃ ┗ 📜service.py
+ ┣ 📜.env
+ ┣ 📜.gitignore
+ ┣ 📜Dockerfile
+ ┣ 📜README.md
+ ┣ 📜build.sh
+ ┗ 📜docker-compose.yml
 </code>
 </pre>
 </details>
