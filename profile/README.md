@@ -40,11 +40,11 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 # 🌈 WEB DEMO
 | 온보딩 페이지 | 회원가입/로그인 페이지  |
 |:-----:|:-----:|
-| ![온보딩](./onboarding.gif) | ![회원가입](./signup.gif) |
+| ![온보딩](https://github.com/user-attachments/assets/c51aa558-18d5-41ca-8764-ea820eb450bd) | ![회원가입](./signup.gif) |
 
 | 메인 주식 차트 페이지 | 주식 상세 페이지  |
 |:-----:|:-----:|
-| ![메인 차트](./main_chart.gif) | ![주식 상세](./stock_detail.gif) |
+| ![메인 차트](https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328) | ![주식 상세](./stock_detail.gif) |
 
 | 알림 페이지 | 마이 페이지  |
 |:-----:|:-----:|
