@@ -38,34 +38,53 @@ https://drive.google.com/file/d/1RCKO13ue1S7Rjw33bm4f2IzVcdGs1_K7/view
 https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLKk7c/edit?gid=785057080#gid=785057080
 
 # 🌈 WEB DEMO
-| 온보딩 페이지 | 회원가입/로그인 페이지  |
-|:-----:|:-----:|
-| ![온보딩](https://github.com/user-attachments/assets/c51aa558-18d5-41ca-8764-ea820eb450bd) | ![회원가입](./signup.gif) |
 
-| 메인 주식 차트 페이지 | 주식 상세 페이지  |
-|:-----:|:-----:|
-| ![메인 차트](https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328) | ![주식 상세](./stock_detail.gif) |
 
-| 알림 페이지 | 마이 페이지  |
-|:-----:|:-----:|
-| ![알림](./notification.gif) | ![마이 페이지](./mypage.gif) |
+  <table>
+    <tr>
+      <th>온보딩 페이지</th>
+      <th>회원가입/로그인 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c51aa558-18d5-41ca-8764-ea820eb450bd" width="475">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="475">
+      </td>
+    </tr>
+    <tr>
+      <th>메인 주식 차트 페이지</th>
+      <th>주식 상세 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="475">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="475">
+      </td>
+    </tr>
+    <tr>
+      <th>알림 페이지</th>
+      <th>마이 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="475">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="475">
+      </td>
+    </tr>
+  </table>
+
+
 
 
 
 
 # 🌈 APP DEMO
-
-| 온보딩 페이지 | 회원가입/로그인 페이지  |
-|:-----:|:-----:|
-| ![온보딩](./onboarding.gif) | ![회원가입](./signup.gif) |
-
-| 메인 주식 차트 페이지 | 주식 상세 페이지  |
-|:-----:|:-----:|
-| ![메인 차트](./main_chart.gif) | ![주식 상세](./stock_detail.gif) |
-
-| 알림 페이지 | 마이 페이지  |
-|:-----:|:-----:|
-| ![알림](./notification.gif) | ![마이 페이지](./mypage.gif) |
 
 
 # ⚙ System Architecture
