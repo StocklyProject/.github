@@ -62,7 +62,7 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
         <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="390">
       </td>
       <td>
-        <img src="" width="390">
+        <img src="https://github.com/user-attachments/assets/2a232e17-e82d-47d7-a3e3-8f31017a41df" width="390">
       </td>
     </tr>
     <tr>
@@ -71,21 +71,22 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     </tr>
     <tr>
       <td>
-        <img src="" width="390">
+        <img src="https://github.com/user-attachments/assets/9f652e96-0d1e-4ed0-adc5-160247d719a6" width="390">
       </td>
       <td>
-        <img src="" width="390">
+        <img src="https://github.com/user-attachments/assets/8086119a-5c39-43ea-9c4f-e45a3dc8620b" width="390">
       </td>
     </tr>
   <tr>
-        <th colspan="2">주식 차트 페이지</th> <!-- 🔥 두 개의 열을 차지하도록 수정 -->
+        <th colspan="2">주식 차트 페이지</th> 
     </tr>
     <tr>
-        <td colspan="2"> <!-- 🔥 두 개의 열을 차지하도록 수정 -->
-           <video src="https://github.com/StocklyProject/.github/주식차트.mp4" controls="controls" width="100%"></video>
+        <td colspan="2"> 
+           <video src="https://github.com/user-attachments/assets/0577c2ee-f9c2-4ec5-8824-f5f13610607d" controls="controls" width="100%"></video>
         </td>
     </tr>
   </table>
+
 
 
 
