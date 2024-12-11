@@ -82,7 +82,7 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     </tr>
     <tr>
         <td colspan="2"> <!-- 🔥 두 개의 열을 차지하도록 수정 -->
-            <img src="" width="100%"> <!-- 🔥 가로 전체를 차지하도록 수정 -->
+           <video src="https://github.com/StocklyProject/.github/주식차트.mp4" controls="controls" width="100%"></video>
         </td>
     </tr>
   </table>
