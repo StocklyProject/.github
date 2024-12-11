@@ -88,6 +88,8 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 
 # ⚙ System Architecture
+<img src="https://github.com/user-attachments/assets/7bf87ef3-38ee-4b2e-ab1d-cb0339bcb7de">
+
 
 # 🛠 Tech Stack
 <br>
