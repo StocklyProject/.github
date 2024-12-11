@@ -149,6 +149,130 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     <summary>Web</summary>
 <pre>
 <code>
+📦 Web
+ ┣ 📂public
+ ┃ ┗ 📜vite.svg
+ ┣ 📂src
+ ┃ ┣ 📂assets
+ ┃ ┃ ┣ 📂icons
+ ┃ ┃ ┃ ┣ 📜alert.svg
+ ┃ ┃ ┃ ┣ 📜alert_hover.svg
+ ┃ ┃ ┃ ┣ 📜assets_icon.svg
+ ┃ ┃ ┃ ┣ 📜cancel.svg
+ ┃ ┃ ┃ ┣ 📜like.svg
+ ┃ ┃ ┃ ┣ 📜like2.svg
+ ┃ ┃ ┃ ┣ 📜like2_hover.svg
+ ┃ ┃ ┃ ┣ 📜like_hover.svg
+ ┃ ┃ ┃ ┣ 📜main_logo.svg
+ ┃ ┃ ┃ ┣ 📜money_icon.svg
+ ┃ ┃ ┃ ┣ 📜profile_icon.svg
+ ┃ ┃ ┃ ┣ 📜roi_icon.svg
+ ┃ ┃ ┃ ┗ 📜stock_icon.svg
+ ┃ ┃ ┣ 📂images
+ ┃ ┃ ┃ ┣ 📜CandleImg.png
+ ┃ ┃ ┃ ┣ 📜OrderImg.svg
+ ┃ ┃ ┃ ┗ 📜blueImg.svg
+ ┃ ┃ ┗ 📜react.svg
+ ┃ ┣ 📂components
+ ┃ ┃ ┣ 📂menuBar
+ ┃ ┃ ┃ ┣ 📜AlertList.tsx
+ ┃ ┃ ┃ ┣ 📜MenuBar.tsx
+ ┃ ┃ ┃ ┣ 📜MenuBarAlertContent.tsx
+ ┃ ┃ ┃ ┣ 📜MenuBarChartContent.tsx
+ ┃ ┃ ┃ ┣ 📜MenuBarLikeContent.tsx
+ ┃ ┃ ┃ ┗ 📜MessageList.tsx
+ ┃ ┃ ┣ 📂mypageContent
+ ┃ ┃ ┃ ┣ 📜Account.tsx
+ ┃ ┃ ┃ ┣ 📜Charge.tsx
+ ┃ ┃ ┃ ┣ 📜MyOrderList.tsx
+ ┃ ┃ ┃ ┣ 📜MyStockList.tsx
+ ┃ ┃ ┃ ┣ 📜OrderList.tsx
+ ┃ ┃ ┃ ┣ 📜RoiChart.tsx
+ ┃ ┃ ┃ ┗ 📜UserInfo.tsx
+ ┃ ┃ ┣ 📂onBoardingContent
+ ┃ ┃ ┃ ┣ 📜ExampleMyInvest.tsx
+ ┃ ┃ ┃ ┣ 📜OnBoarding1.tsx
+ ┃ ┃ ┃ ┣ 📜OnBoarding2.tsx
+ ┃ ┃ ┃ ┣ 📜OnBoarding3.tsx
+ ┃ ┃ ┃ ┗ 📜OnBoarding4.tsx
+ ┃ ┃ ┣ 📂orderContents
+ ┃ ┃ ┃ ┣ 📜Buy.tsx
+ ┃ ┃ ┃ ┣ 📜BuyLimit.tsx
+ ┃ ┃ ┃ ┣ 📜BuyMarket.tsx
+ ┃ ┃ ┃ ┣ 📜Order.tsx
+ ┃ ┃ ┃ ┣ 📜Sell.tsx
+ ┃ ┃ ┃ ┣ 📜SellLimit.tsx
+ ┃ ┃ ┃ ┗ 📜SellMarket.tsx
+ ┃ ┃ ┣ 📂stockDetails
+ ┃ ┃ ┃ ┣ 📜ChartContainer.tsx
+ ┃ ┃ ┃ ┣ 📜DayChart.tsx
+ ┃ ┃ ┃ ┣ 📜Echart.tsx
+ ┃ ┃ ┃ ┣ 📜MinChart.tsx
+ ┃ ┃ ┃ ┣ 📜MonthChart.tsx
+ ┃ ┃ ┃ ┣ 📜OrderBook.tsx
+ ┃ ┃ ┃ ┣ 📜TopContent.tsx
+ ┃ ┃ ┃ ┣ 📜WeekChart.tsx
+ ┃ ┃ ┃ ┗ 📜YearChart.tsx
+ ┃ ┃ ┣ 📜Modal.tsx
+ ┃ ┃ ┣ 📜NewAlertContent.tsx
+ ┃ ┃ ┣ 📜SearchContent.tsx
+ ┃ ┃ ┣ 📜SignIn.tsx
+ ┃ ┃ ┣ 📜SignUp.tsx
+ ┃ ┃ ┣ 📜StockChartList.tsx
+ ┃ ┃ ┗ 📜TopNavBar.tsx
+ ┃ ┣ 📂fonts
+ ┃ ┃ ┣ 📜Pretendard-Black.ttf
+ ┃ ┃ ┣ 📜Pretendard-Bold.ttf
+ ┃ ┃ ┣ 📜Pretendard-ExtraBold.ttf
+ ┃ ┃ ┣ 📜Pretendard-ExtraLight.ttf
+ ┃ ┃ ┣ 📜Pretendard-Light.ttf
+ ┃ ┃ ┣ 📜Pretendard-Medium.ttf
+ ┃ ┃ ┣ 📜Pretendard-Regular.ttf
+ ┃ ┃ ┣ 📜Pretendard-SemiBold.ttf
+ ┃ ┃ ┗ 📜Pretendard-Thin.ttf
+ ┃ ┣ 📂hooks
+ ┃ ┃ ┣ 📜AlertMessageData.tsx
+ ┃ ┃ ┣ 📜DataWorker.js
+ ┃ ┃ ┗ 📜RealTimeData.tsx
+ ┃ ┣ 📂pages
+ ┃ ┃ ┣ 📜LoginPage.tsx
+ ┃ ┃ ┣ 📜MainPage.tsx
+ ┃ ┃ ┣ 📜MypagePage.tsx
+ ┃ ┃ ┣ 📜OnBoardingPage.tsx
+ ┃ ┃ ┗ 📜StockDetailsPage.tsx
+ ┃ ┣ 📂routes
+ ┃ ┃ ┣ 📜GuestRoute.tsx
+ ┃ ┃ ┗ 📜ProtectedRoute.tsx
+ ┃ ┣ 📂types
+ ┃ ┃ ┗ 📜NewStockData.ts
+ ┃ ┣ 📂zustand
+ ┃ ┃ ┣ 📜AlertStore.tsx
+ ┃ ┃ ┣ 📜ChartListStore.tsx
+ ┃ ┃ ┣ 📜MarketStore.tsx
+ ┃ ┃ ┣ 📜MenuBarStore.tsx
+ ┃ ┃ ┣ 📜TopNavBarStore.tsx
+ ┃ ┃ ┗ 📜UserStore.tsx
+ ┃ ┣ 📜.DS_Store
+ ┃ ┣ 📜App.css
+ ┃ ┣ 📜App.tsx
+ ┃ ┣ 📜index.css
+ ┃ ┣ 📜main.tsx
+ ┃ ┗ 📜vite-env.d.ts
+ ┣ 📜.DS_Store
+ ┣ 📜.eslintrc.js
+ ┣ 📜.prettierrc
+ ┣ 📜README.md
+ ┣ 📜build.sh
+ ┣ 📜eslint.config.js
+ ┣ 📜index.html
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┣ 📜tailwind.config.js
+ ┣ 📜tsconfig.app.json
+ ┣ 📜tsconfig.json
+ ┣ 📜tsconfig.node.json
+ ┣ 📜vercel.json
+ ┗ 📜vite.config.ts
 </code>
 </pre>
 </details>
