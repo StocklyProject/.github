@@ -131,7 +131,7 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 # ⚙ Kafka Workflows
 ## 주식 차트 기능
-<img src="https://github.com/user-attachments/assets/0d782f3b-4a5e-4fd8-a71c-7dbe81d6f82c">
+<img src="https://github.com/user-attachments/assets/1b01625b-3421-459a-8838-559bd019b6c9">
 
 ## 알림 기능
 <img src="https://github.com/user-attachments/assets/86c698b2-af5f-4c5a-9437-b5b6e83e7627">
