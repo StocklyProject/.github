@@ -89,18 +89,11 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 
 
-
-
-
-
-
-
 # 🌈 APP DEMO
 
 
 # ⚙ System Architecture
 <img src="https://github.com/user-attachments/assets/e8342bf3-88d3-4cf6-85d5-215808964a5a">
-
 
 
 # 🛠 Tech Stack
@@ -109,11 +102,11 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Fronted** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/3f4dc890-11fa-4761-97ca-63a588fb7ee8" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**APP** | 
-**Backend** | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/2e4e3521-df04-4934-a236-dc52df8b4f28" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/b4cb23f8-69d7-461e-9c95-89713ea2a2a5" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/f14de573-f552-4d1d-b6f2-ed63faa49693" width="70" height="70"/> 
+**Fronted** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/3f4dc890-11fa-4761-97ca-63a588fb7ee8" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="70" height="70"/> <br/> <img src="https://velog.velcdn.com/images/071yoon/post/6e184afc-7885-4497-8f06-cf0cace3473f/image.png" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1kzfqxJbn3tOpIV9oN31BqKpIX6kUvTEFg&s" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://echarts.apache.org/en/images/logo.png?_v_=20240226" height="70"/>
+**APP** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZdMC_FB3iUt9yQZujx9L8Etp5FdbP75UJQ&s" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTks7GMBDrMiAOf66nZyzDSce2THZ-leOEpA&s" width="70" height="70"/> 
+**Backend** | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/2e4e3521-df04-4934-a236-dc52df8b4f28" width="60" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/b4cb23f8-69d7-461e-9c95-89713ea2a2a5" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/f14de573-f552-4d1d-b6f2-ed63faa49693" height="60"/> 
 **DevOps** | <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" height="70" style="vertical-align: middle;"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/user-attachments/assets/3feef2da-8845-4c62-ae5b-d6508a79be21" height="60"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/d17e8051-0244-473f-8e36-130808d56c27" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/73b7273b-086d-4916-a0dc-db5ee8055b8a" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/e1c6b019-447b-4356-ab02-ff101479bf4e" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Monitoring** | 
+**Monitoring** | <img src="https://github.com/user-attachments/assets/b94bb768-05ea-4c60-a039-c67bf2c3bc2f" height="35" style="vertical-align: middle;"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://techetio.com/wp-content/uploads/2024/08/cover.png" height="70" style="vertical-align: middle;"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/67d3ae71-162d-4cce-aa2a-1a2937298c4b" height="70" style="vertical-align: middle;"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.niagaramarketplace.com/media/catalog/product/cache/7e0d69d30f6e174892c8afd79bc5a62e/m/a/marketplace_icons_13_.png" height="70" style="vertical-align: middle;"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 **etc** | <img src="https://github.com/user-attachments/assets/cecfad68-e740-4c8c-8e11-dd5c2d43b885" height="60"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/d19733ef-9071-4e6d-b31f-18da406e0690" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/0c8e87e3-8453-4b5b-9ca0-dccf94e67cc0" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/d4c9686b-38fb-47d3-be78-09e5b6b7c825" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/29a7e4e4-f8c7-4dd1-ab32-1fcb55a41292" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
@@ -455,6 +448,24 @@ HOGA_SECRET=
 ```
 
 # 🚀 How to Start
+## App
+```
+flutter pub get # 패키지 설치
+
+flutter run # 디버그 모드로 실행
+
+flutter build apk # APK 빌드
+
+flutter clean # 빌드 캐시 정리 
+```
+
+## Web
+```
+npm install
+
+npm run dev
+```
+
 ## backend
 ```
 # Docker Desktop 실행 -> Settings -> Kubernetes -> Enable Kubernetes
