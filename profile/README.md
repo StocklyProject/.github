@@ -55,14 +55,14 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     </tr>
     <tr>
       <th>메인 주식 차트 페이지</th>
-      <th>주식 상세 페이지</th>
+      <th>모의 투자 페이지</th>
     </tr>
     <tr>
       <td>
         <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="390">
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="390">
+        <img src="" width="390">
       </td>
     </tr>
     <tr>
@@ -71,11 +71,19 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="390">
+        <img src="" width="390">
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="390">
+        <img src="" width="390">
       </td>
+    </tr>
+  <tr>
+        <th colspan="2">주식 차트 페이지</th> <!-- 🔥 두 개의 열을 차지하도록 수정 -->
+    </tr>
+    <tr>
+        <td colspan="2"> <!-- 🔥 두 개의 열을 차지하도록 수정 -->
+            <img src="" width="100%"> <!-- 🔥 가로 전체를 차지하도록 수정 -->
+        </td>
     </tr>
   </table>
 
