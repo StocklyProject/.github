@@ -91,6 +91,9 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 # 🌈 APP DEMO
 
+https://github.com/user-attachments/assets/4550b0df-dfb5-4fc7-bc1a-c2aacaf57ee4
+
+
 
 # ⚙ System Architecture
 <img src="https://github.com/user-attachments/assets/e8342bf3-88d3-4cf6-85d5-215808964a5a">
